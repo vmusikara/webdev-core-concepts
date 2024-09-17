@@ -11,5 +11,17 @@ $font-weights: (
 body {
   background: $primary-color;
   color: $text-color;
-  font-weight: map-get($map: $font-weights, $key: bold);
+}
+
+.main {
+  width: 80%;
+  margin: 0 auto;
+
+  #{&}__paragraph {
+    font-weight: map-get($map: $font-weights, $key: bold);
+
+    &:hover {
+      color: lime;
+    }
+  }
 }
