@@ -1,0 +1,26 @@
+* {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #272727;
+  color: #fff;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+  width: 80%;
+  margin: 0 auto;
+}
+.main .main__paragraph {
+  font-weight: 400;
+}
+.main .main__paragraph:hover {
+  color: lime;
+}/*# sourceMappingURL=style.css.map */
