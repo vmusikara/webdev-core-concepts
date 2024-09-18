@@ -1,2 +1,2 @@
-# webdev-core-concepts
-A deep dive into front-end basics with projects and code samples focusing on modern web development practices.
+# SASS Basics
+SASS - Syntactically Advanced Style Sheets is a popular CSS extension which can improve CSS writing and organizing the classes/tags/id and more and present them in a clear block(scss) or indented(sass) format.
